@@ -1,0 +1,5 @@
+print("Enter an integer number: ")
+
+number = tonumber (io.read())
+
+

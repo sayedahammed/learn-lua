@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="ASCII"?>
+<cache:CacheIndex xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:cache="http://eclipse.org/dltk/cache_model" lastIndex="16" environment="org.eclipse.dltk.core.environment.localEnvironment">
+  <entries path="D:/Lua/workspace/LearnLua/src/multiply-two-float-number.lua" timestamp="1625206165215" lastAccessTime="1625206165756"/>
+  <entries path="D:/Lua/workspace/LearnLua/src" timestamp="1625206232986" lastAccessTime="1625206372445">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="2838196607/3122265350/15.idx"/>
+  </entries>
+</cache:CacheIndex>

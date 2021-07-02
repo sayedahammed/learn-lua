@@ -1,0 +1,5 @@
+io.write("Enter two float number: ")
+local number1, number2, product = io.read("*n", "*n");
+
+product = number1 * number2
+io.write((string.format("The product of %f and %f is %.4f", number1, number2, product)))

@@ -1,0 +1,7 @@
+print("Input : ")
+
+userInput = io.read()
+
+if tonumber(s) ~= nil then
+  print("This is a number")
+end

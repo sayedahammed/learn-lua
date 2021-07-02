@@ -1,0 +1,10 @@
+io.write("Enter two integers: ")
+
+local number1, number2, sum
+
+number1 = tonumber(io.read("*n"))
+number2 = tonumber(io.read("*n"))
+
+sum = number1 + number2;
+
+io.write(string.format("The sum of %d and %d number : %d", number1, number2, sum))

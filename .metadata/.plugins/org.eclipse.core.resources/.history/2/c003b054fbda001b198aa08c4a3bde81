@@ -1,0 +1,7 @@
+local number1, number2, product;
+
+number1 = tonumber(io.read("*n"))
+number2 = tonumber(io.read("*n"))
+
+product = number1 * number2
+print(product)

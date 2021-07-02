@@ -1,0 +1,18 @@
+print("Hello World");
+
+io.write("Please enter the age of your dog: ")
+stuff = tonumber (io.read())
+if stuff then
+
+print (stuff)
+
+for age = 0,stuff do
+        if stuff > 10 then print ("ancient") end
+        really = age * 7
+        print ("At " .. age .. " the dog was " ..
+                really .. " years old")
+        end
+
+else
+        print "Duh!"
+end

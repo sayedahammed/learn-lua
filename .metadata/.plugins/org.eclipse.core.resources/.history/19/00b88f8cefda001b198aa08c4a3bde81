@@ -1,0 +1,3 @@
+io.write("Enter two integers: ")
+
+local number1, number2, sum
